@@ -1,6 +1,5 @@
 import { usePagination, useTable } from "react-table"
 import {AiFillEdit} from "react-icons/ai"
-import Form from "../form/Form";
 function Drivertable({columns,data}){
   //console.log('columnsthfasdfhfjasdfjk',columns)
   const {

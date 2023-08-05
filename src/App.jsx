@@ -4,7 +4,7 @@ import Drivers from "./pages/Drivers";
 import Create from "./crudoperation/Create";
 import Update from "./crudoperation/Update";
 import Read from "./crudoperation/Read";
-import { BrowserRouter } from "react-router-dom";
+
 function App() {
 
 

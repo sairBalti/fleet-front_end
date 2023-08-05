@@ -7,7 +7,7 @@ function Header({onClick}){
        
       <div className="flex">
       
-        <input type="text" placeholder="Search" className="border-b-[2px] border-gray-300/[0.3] outline-none" />
+        <input type="text" placeholder="Search..." name="" className="border-b-[2px] border-gray-300/[0.3] outline-none" />
       </div>
       <div>
         <button className="bg-blue-500 hover:bg-blue-600 text-white text-center rounded w-[100px] h-[40px] mt-[1rem] ml-[1rem]"onClick={onClick} >Add Driver</button>
